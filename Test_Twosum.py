@@ -1,4 +1,4 @@
-from Twosum import two_sum
+from twosum import two_sum
 
 def test_1two_sum():
     nums = [2,7,11,15]
